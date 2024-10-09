@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Homepage",
+    "title": "Dubem Okoye",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Emory University, Rollins School of Public Health | Atlanta, GA M.P.H. in Health Policy and Management | Aug 2023 - May 2025 (expected)\nGeorgia State University | Atlanta, GA B.S in Biological Sciences | Aug 2016 - May 2020"
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,19 @@
     "title": "About",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Dubem Okoye",
+    "section": "",
+    "text": "Emory University, Rollins School of Public Health | Atlanta, GA M.P.H. in Health Policy and Management | Aug 2023 - May 2025 (expected)\nGeorgia State University | Atlanta, GA B.S in Biological Sciences | Aug 2016 - May 2020"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Dubem Okoye",
+    "section": "Experience",
+    "text": "Experience\n(placeholder - company name) | (Position held) | April 2018 - present\n(placeholder - company name) | (Position held) | Spet 2012 - April 2018.\n\n1 + 1\n\n[1] 2"
   }
 ]

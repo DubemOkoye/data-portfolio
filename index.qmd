@@ -11,19 +11,22 @@ about:
 
 ## Education
 
-Emory University, Rollins School of Public Health | Atlanta, GA
-M.P.H. in Health Policy and Management | Aug 2023 - May 2025 (expected)
+Emory University, Rollins School of Public Health \| Atlanta, GA M.P.H. in Health Policy and Management \|
 
-Georgia State University | Atlanta, GA
-B.S in Biological Sciences | Aug 2016 - May 2020
+Aug 2023 - May 2025 (expected)
+
+Georgia State University \| Atlanta, GA
+
+B.S in Biological Sciences \|
+
+Aug 2016 - May 2020
 
 ## Experience
 
-(placeholder - company name) | (Position held)  | April 2018 - present
+(placeholder - company name) \| (Position held) \| April 2018 - present
 
-(placeholder - company name) | (Position held) | Spet 2012 - April 2018.
+(placeholder - company name) \| (Position held) \| Spet 2012 - April 2018.
 
 ```{r}
 1 + 1
 ```
-
