@@ -1,10 +1,27 @@
 ---
-title: "Homepage"
+title: "Dubem Okoye"
+about:
+  template: trestles
+  image: (placeholder.jpg)
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/dubem-okoye-83916a202/
 ---
 
-This is a Quarto website.
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Emory University, Rollins School of Public Health | Atlanta, GA
+M.P.H. in Health Policy and Management | Aug 2023 - May 2025 (expected)
+
+Georgia State University | Atlanta, GA
+B.S in Biological Sciences | Aug 2016 - May 2020
+
+## Experience
+
+(placeholder - company name) | (Position held)  | April 2018 - present
+
+(placeholder - company name) | (Position held) | Spet 2012 - April 2018.
 
 ```{r}
 1 + 1
