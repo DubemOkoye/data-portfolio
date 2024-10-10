@@ -2,7 +2,8 @@
 title: "Dubem Okoye"
 about:
   template: trestles
-  image: /images/Headshot 2023.jpg
+  id: ppc
+  image: images/Headshot 2023.jpg
   image-shape: round
   image-width: 12em
   links:
@@ -21,6 +22,8 @@ I'm a public health student and data analyst who is passionate about using data 
 - 👀 I’m interested in **Tableau**
 - 🌱 I’m learning new skills in **R** and **SAS**.
 
+:::{#ppc}
+
 ### Education
 
 **Emory University, Rollins School of Public Health** | Atlanta, GA | M.P.H. in Health Policy and Management | Aug 2023 - May 2025 (expected)
@@ -32,6 +35,8 @@ I'm a public health student and data analyst who is passionate about using data 
 (placeholder - company name) \| (Position held) \| April 2018 - present
 
 (placeholder - company name) \| (Position held) \| Spet 2012 - April 2018.
+
+:::
 
 ```{r}
 1 + 1
