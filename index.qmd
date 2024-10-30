@@ -3,7 +3,7 @@ title: "Dubem Okoye"
 about:
   template: trestles
   id: ppc
-  image: images/Headshot_2023.jpg
+  image: images/Headshot 2023.jpg
   image-shape: round
   image-width: 12em
   links:
