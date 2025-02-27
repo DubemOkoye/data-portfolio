@@ -19,8 +19,8 @@ format:
     toc: true
     page-layout: full
     grid:
-      sidebar-width: 100px
+      sidebar-width: 1000px
       body-width: 2000px
-      margin-width: 150px
+      margin-width: 1500px
 
 editor: visual
