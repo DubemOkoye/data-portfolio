@@ -1,16 +1,6 @@
 ---
 title: "Dubem Okoye"
-about:
-  template: trestles
-  image: Headshot_2023.jpg
-  links:
-    - icon: linkedin
-      text: linkedin
-      href: https://www.linkedin.com/in/dubem-okoye-83916a202/
-    - icon: github
-      text: github
-      href: https://github.com/DubemOkoye
----
+
 ## Hi, I’m Dubem Okoye
 I'm a public health student and data analyst who is passionate about using data to drive change in community health. I love creating insightful visualizations, and I’m always curious about how data can be used to solve real-world problems in public health.
 
