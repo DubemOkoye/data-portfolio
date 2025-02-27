@@ -4,8 +4,6 @@ about:
   template: trestles
   id: ppc
   image: /data-portfolio/images/headshot_2023.jpg
-  image-shape: round
-  image-width: 12em
   links:
     - icon: linkedin
       text: linkedin
