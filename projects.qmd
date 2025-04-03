@@ -1,7 +1,0 @@
----
-title: "Projects"
----
-
-## Collection of Data Analysis Projects
-```{r}
-```
